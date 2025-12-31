@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceable.Core", "Traceable.Core\Traceable.Core.csproj", "{09153AF3-E145-407F-B7DB-417346805618}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traceable.Console", "Traceable.Console\Traceable.Console.csproj", "{3A3D351E-5954-4C8B-AD96-801E6E8DB746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09153AF3-E145-407F-B7DB-417346805618}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09153AF3-E145-407F-B7DB-417346805618}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09153AF3-E145-407F-B7DB-417346805618}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09153AF3-E145-407F-B7DB-417346805618}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A3D351E-5954-4C8B-AD96-801E6E8DB746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A3D351E-5954-4C8B-AD96-801E6E8DB746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A3D351E-5954-4C8B-AD96-801E6E8DB746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A3D351E-5954-4C8B-AD96-801E6E8DB746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
